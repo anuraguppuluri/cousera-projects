@@ -1,0 +1,10 @@
+(Please open the Codeskulptor links using Chrome and click on Run)
+
+•	Card Game – Memory            http://www.codeskulptor.org/#user42_0l9XsN808t_4.py
+
+•	Card Game – Blackjack         http://www.codeskulptor.org/#user42_fcU38yk4WQ_4.py
+
+•	Arcade Game – Asteroids       http://www.codeskulptor.org/#user42_8b1kIJelhl_3.py
+
+•	Arcade Game - Pong            http://www.codeskulptor.org/#user42_AEejPVhjnJ_9.py 
+{w – left player up; s – left player down; Up arrow – right player up; Down arrow – right player down}
